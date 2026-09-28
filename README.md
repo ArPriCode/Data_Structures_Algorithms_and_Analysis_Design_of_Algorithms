@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArPriCode/Leetcode_B/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/2390-removing-stars-from-a-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2105-watering-plants-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2396-strictly-palindromic-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ArPriCode/Leetcode_B/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ArPriCode/Leetcode_B/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2105-watering-plants-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArPriCode/Leetcode_B/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ArPriCode/Leetcode_B/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/ArPriCode/Leetcode_B/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2028-find-missing-observations](https://github.com/ArPriCode/Leetcode_B/tree/master/2028-find-missing-observations) |
 | [2105-watering-plants-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/2105-watering-plants-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ArPriCode/Leetcode_B/tree/master/2462-total-cost-to-hire-k-workers) |
