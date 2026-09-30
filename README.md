@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArPriCode/Leetcode_B/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArPriCode/Leetcode_B/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -985,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ArPriCode/Leetcode_B/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
