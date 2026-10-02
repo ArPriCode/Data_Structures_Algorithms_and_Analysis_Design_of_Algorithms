@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/ArPriCode/Leetcode_B/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/ArPriCode/Leetcode_B/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArPriCode/Leetcode_B/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
