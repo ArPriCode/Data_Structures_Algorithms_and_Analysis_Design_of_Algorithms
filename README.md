@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1813-sentence-similarity-iii) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/ArPriCode/Leetcode_B/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1813-sentence-similarity-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1813-sentence-similarity-iii) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2105-watering-plants-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/2105-watering-plants-ii) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ArPriCode/Leetcode_B/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/ArPriCode/Leetcode_B/tree/master/1824-minimum-sideway-jumps) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ArPriCode/Leetcode_B/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2091-removing-minimum-and-maximum-from-array) |
