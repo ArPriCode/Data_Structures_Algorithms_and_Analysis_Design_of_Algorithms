@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/ArPriCode/Leetcode_B/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ArPriCode/Leetcode_B/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ArPriCode/Leetcode_B/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/1096-brace-expansion-ii) |
 | [1774-closest-dessert-cost](https://github.com/ArPriCode/Leetcode_B/tree/master/1774-closest-dessert-cost) |
