@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0892-surface-area-of-3d-shapes) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [0920-number-of-music-playlists](https://github.com/ArPriCode/Leetcode_B/tree/master/0920-number-of-music-playlists) |
 | [0932-beautiful-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0932-beautiful-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/ArPriCode/Leetcode_B/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0593-valid-square) |
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0892-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/ArPriCode/Leetcode_B/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArPriCode/Leetcode_B/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/ArPriCode/Leetcode_B/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/ArPriCode/Leetcode_B/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ArPriCode/Leetcode_B/tree/master/0881-boats-to-save-people) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0892-surface-area-of-3d-shapes) |
 | [0910-smallest-range-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0910-smallest-range-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/0930-binary-subarrays-with-sum) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/ArPriCode/Leetcode_B/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArPriCode/Leetcode_B/tree/master/1301-number-of-paths-with-max-score) |
