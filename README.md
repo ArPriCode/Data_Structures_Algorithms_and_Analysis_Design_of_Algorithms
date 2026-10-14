@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1399-count-largest-group](https://github.com/ArPriCode/Leetcode_B/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ArPriCode/Leetcode_B/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1406-stone-game-iii) |
