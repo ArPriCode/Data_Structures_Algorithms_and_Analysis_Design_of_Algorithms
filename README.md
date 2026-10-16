@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ArPriCode/Leetcode_B/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ArPriCode/Leetcode_B/tree/master/0221-maximal-square) |
 | [0337-house-robber-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0337-house-robber-iii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ArPriCode/Leetcode_B/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ArPriCode/Leetcode_B/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/0216-combination-sum-iii) |
