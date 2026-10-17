@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ArPriCode/Leetcode_B/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1797-design-authentication-manager](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1797-design-authentication-manager) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1797-design-authentication-manager](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1797-design-authentication-manager) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ArPriCode/Leetcode_B/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ArPriCode/Leetcode_B/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Algorithm X
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/ArPriCode/Leetcode_B/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ArPriCode/Leetcode_B/tree/master/0933-number-of-recent-calls) |
+| [1797-design-authentication-manager](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1797-design-authentication-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ArPriCode/Leetcode_B/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Indexed Tree
 |  |
@@ -1226,4 +1229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
