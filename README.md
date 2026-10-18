@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/ArPriCode/Leetcode_B/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/ArPriCode/Leetcode_B/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArPriCode/Leetcode_B/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ArPriCode/Leetcode_B/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/ArPriCode/Leetcode_B/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0518-coin-change-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0542-01-matrix) |
 | [0587-erect-the-fence](https://github.com/ArPriCode/Leetcode_B/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/ArPriCode/Leetcode_B/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0628-maximum-product-of-three-numbers) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0130-surrounded-regions) |
 | [0301-remove-invalid-parentheses](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ArPriCode/Leetcode_B/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0672-bulb-switcher-ii) |
 | [0841-keys-and-rooms](https://github.com/ArPriCode/Leetcode_B/tree/master/0841-keys-and-rooms) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0542-01-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/ArPriCode/Leetcode_B/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ArPriCode/Leetcode_B/tree/master/1260-shift-2d-grid) |
