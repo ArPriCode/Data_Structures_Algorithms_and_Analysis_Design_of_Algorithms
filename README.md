@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
