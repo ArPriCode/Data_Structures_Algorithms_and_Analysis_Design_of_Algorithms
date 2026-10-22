@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/ArPriCode/Leetcode_B/tree/master/0775-global-and-local-inversions) |
 | [0780-reaching-points](https://github.com/ArPriCode/Leetcode_B/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
+| [0789-escape-the-ghosts](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0789-escape-the-ghosts) |
 | [0808-soup-servings](https://github.com/ArPriCode/Leetcode_B/tree/master/0808-soup-servings) |
 | [0858-mirror-reflection](https://github.com/ArPriCode/Leetcode_B/tree/master/0858-mirror-reflection) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ArPriCode/Leetcode_B/tree/master/0739-daily-temperatures) |
 | [0775-global-and-local-inversions](https://github.com/ArPriCode/Leetcode_B/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
+| [0789-escape-the-ghosts](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0789-escape-the-ghosts) |
 | [0809-expressive-words](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0809-expressive-words) |
 | [0826-most-profit-assigning-work](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0845-longest-mountain-in-array) |
