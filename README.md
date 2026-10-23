@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ArPriCode/Leetcode_B/tree/master/1657-determine-if-two-strings-are-close) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ArPriCode/Leetcode_B/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/ArPriCode/Leetcode_B/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/ArPriCode/Leetcode_B/tree/master/1690-stone-game-vii) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArPriCode/Leetcode_B/tree/master/1823-find-the-winner-of-the-circular-game) |
