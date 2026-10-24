@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ArPriCode/Leetcode_B/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/ArPriCode/Leetcode_B/tree/master/0334-increasing-triplet-subsequence) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/ArPriCode/Leetcode_B/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/0435-non-overlapping-intervals) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0973-k-closest-points-to-origin](https://github.com/ArPriCode/Leetcode_B/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/ArPriCode/Leetcode_B/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
