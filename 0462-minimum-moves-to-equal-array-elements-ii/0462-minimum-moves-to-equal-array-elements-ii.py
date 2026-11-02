@@ -1,5 +1,5 @@
 class Solution:
-    def minMoves2(self, nums: List[int]) -> int:
+    def minMoves2(self, nums):
         nums.sort()
         n = len(nums)
         median = nums[n // 2]
