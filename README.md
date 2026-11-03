@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/ArPriCode/Leetcode_B/tree/master/0447-number-of-boomerangs) |
 | [0457-circular-array-loop](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0567-permutation-in-string) |
 | [0781-rabbits-in-forest](https://github.com/ArPriCode/Leetcode_B/tree/master/0781-rabbits-in-forest) |
 | [0869-reordered-power-of-2](https://github.com/ArPriCode/Leetcode_B/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/ArPriCode/Leetcode_B/tree/master/0923-3sum-with-multiplicity) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ArPriCode/Leetcode_B/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ArPriCode/Leetcode_B/tree/master/0399-evaluate-division) |
 | [0541-reverse-string-ii](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0567-permutation-in-string) |
 | [0640-solve-the-equation](https://github.com/ArPriCode/Leetcode_B/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/ArPriCode/Leetcode_B/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ArPriCode/Leetcode_B/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ArPriCode/Leetcode_B/tree/master/0633-sum-of-square-numbers) |
 | [0809-expressive-words](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0809-expressive-words) |
 | [0826-most-profit-assigning-work](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0826-most-profit-assigning-work) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ArPriCode/Leetcode_B/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArPriCode/Leetcode_B/tree/master/1004-max-consecutive-ones-iii) |
