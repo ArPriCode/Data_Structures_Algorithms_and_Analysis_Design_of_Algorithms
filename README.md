@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3828-final-element-after-subarray-deletions](https://github.com/ArPriCode/Leetcode_B/tree/master/3828-final-element-after-subarray-deletions) |
 | [3848-check-digitorial-permutation](https://github.com/ArPriCode/Leetcode_B/tree/master/3848-check-digitorial-permutation) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ArPriCode/Leetcode_B/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ArPriCode/Leetcode_B/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ArPriCode/Leetcode_B/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tree
 |  |
 | ------- |
