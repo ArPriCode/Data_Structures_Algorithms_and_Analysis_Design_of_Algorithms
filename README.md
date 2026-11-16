@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArPriCode/Leetcode_B/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ArPriCode/Leetcode_B/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ArPriCode/Leetcode_B/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2409-count-days-spent-together) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/2105-watering-plants-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2109-adding-spaces-to-a-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArPriCode/Leetcode_B/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ArPriCode/Leetcode_B/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ArPriCode/Leetcode_B/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ArPriCode/Leetcode_B/tree/master/2549-count-distinct-numbers-on-board) |
