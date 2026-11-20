@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ArPriCode/Leetcode_B/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ArPriCode/Leetcode_B/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArPriCode/Leetcode_B/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3044-most-frequent-prime](https://github.com/ArPriCode/Leetcode_B/tree/master/3044-most-frequent-prime) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArPriCode/Leetcode_B/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArPriCode/Leetcode_B/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/ArPriCode/Data_Structures_Algorithms_and_Analysis_Design_of_Algorithms/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ArPriCode/Leetcode_B/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ArPriCode/Leetcode_B/tree/master/3517-smallest-palindromic-rearrangement-i) |
